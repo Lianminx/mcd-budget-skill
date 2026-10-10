@@ -1,0 +1,13 @@
+{
+  "data_source": "虚构演示数据，不代表麦当劳真实菜单、商品编码或价格",
+  "budget_yuan": "25.00",
+  "require_side": false,
+  "require_drink": true,
+  "offers": [
+    {"id":"demo-main-a","name":"演示汉堡 A","category":"main","price_yuan":"16.50","price_source":"fictional-demo","energy_kcal":390,"protein_g":23},
+    {"id":"demo-main-b","name":"演示汉堡 B","category":"main","price_yuan":"19.00","price_source":"fictional-demo","energy_kcal":430,"protein_g":27},
+    {"id":"demo-side","name":"演示小食","category":"side","price_yuan":"5.00","price_source":"fictional-demo","energy_kcal":90,"protein_g":3},
+    {"id":"demo-drink","name":"演示无糖饮料","category":"drink","price_yuan":"3.00","price_source":"fictional-demo","energy_kcal":0,"protein_g":0},
+    {"id":"demo-meal","name":"演示套餐（含小食、饮料）","category":"main","includes":["side","drink"],"price_yuan":"24.00","price_source":"fictional-demo","energy_kcal":610,"protein_g":25}
+  ]
+}
