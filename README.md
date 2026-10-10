@@ -8,6 +8,8 @@
 
 本项目为独立开发的参赛作品，非麦当劳官方产品。
 
+项目仓库：[Lianminx/mcd-budget-skill](https://github.com/Lianminx/mcd-budget-skill) · 报名申请：[官方 Issue #205](https://github.com/M-China/mcd-developer-innovation-challenge/issues/205)。报名回执记录见 [SUBMISSION.md](SUBMISSION.md)。
+
 ## 一次真实查询
 
 2026-10-10 10:51（北京时间），北京乐业路（昌平万达）餐厅，到店自取，预算 25 元。以下总应付由 `calculate-price` 返回，营养来自当次 `list-nutrition-foods` 查询。

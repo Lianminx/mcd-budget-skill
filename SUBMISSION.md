@@ -17,8 +17,15 @@
 ```text
 【参赛申请】
 项目名称：麦麦预算搭配师
-项目地址：发布后填入实际 GitHub 公开仓库地址
+项目地址：https://github.com/Lianminx/mcd-budget-skill
 项目简介：输入预算、地点和口味，基于麦当劳 MCP 查询真实门店菜单、可用优惠券、套餐组成与营养数据，比较省钱、蛋白质优先和组合丰富等搭配方案，并逐一调用价格计算工具核验应付金额。提供可安装的 Skill 与 Python 标准库脚本，明确标注未知营养、报价失败和超预算。已完成北京沙河万达附近门店的真实查询及三种方案总价核验。
 ```
 
 公开仓库必须包含 README.md、原样 CONTEST_DECLARATION.md、MCP_INTEGRATION.md、mcp-config.example.json，以及可运行内容。只上传发布包中的项目文件，排除 local/、账户响应、凭证、缓存和个人 vault 的其他内容。提交后以官方 Issue 的成功通知为报名成功证据。
+
+## 2026-10-10 发布与报名记录
+
+- 公开仓库：[Lianminx/mcd-budget-skill](https://github.com/Lianminx/mcd-budget-skill)，GitHub API 已确认 `private=false`，16 个项目文件均可在远端取得。
+- 报名申请：[官方 Issue #205](https://github.com/M-China/mcd-developer-innovation-challenge/issues/205)，状态为 OPEN，正文回读与提交材料一致。
+- 原活动入口 `M-China-Official/mcd-developer-innovation-challenge` 当前由 GitHub 重定向到 `M-China/mcd-developer-innovation-challenge`；上述 Issue 为实际返回地址。
+- 当前状态：报名申请已提交，等待官方成功通知。创建 Issue 不等于报名审核通过。
